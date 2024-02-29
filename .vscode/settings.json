@@ -1,0 +1,14 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 2000,
+    "gitdoc.commitValidationLevel": "none",
+    "gitdoc.enabled": true,
+    "gitdoc.autoPush": "afterDelay",
+    "gitdoc.autoPushDelay": 300000,
+    "gitdoc.commitOnClose": true,
+    "git.autofetch": true,
+    "git.branchProtection": [
+        "Feedback*"
+    ],
+    "github.branchProtection": true
+}
